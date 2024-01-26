@@ -25,7 +25,7 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 <img src="./kino-2.png" width="600">
 
 
-#### jiuxia
+#### 九夏
 *推荐权重0.75左右*
 ```
 触发词: jiuxia  
@@ -67,7 +67,7 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 *推荐权重0.8左右*
 ```
 触发词: nana
-可能会用到的补充正反向prompt: twin braids, hair flower
+可能会用到的补充正反向prompt: mole under eye
 ```
 <img src="./nana-1.png" width="600">
 <img src="./nana-2.png" width="600">
