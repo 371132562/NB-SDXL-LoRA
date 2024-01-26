@@ -24,6 +24,17 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 <img src="./kino-1.png" width="600">
 <img src="./kino-2.png" width="600">
 
+
+#### jiuxia
+*推荐权重0.75左右*
+```
+触发词: jiuxia  
+可能会用到的补充正反向prompt: double bun
+```
+<img src="./jiuxia-1.png" width="600">
+<img src="./jiuxia-2.png" width="600">
+
+
 #### 鸭鸭
 *推荐权重0.8左右*
 ```
