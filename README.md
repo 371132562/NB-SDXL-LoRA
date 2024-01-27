@@ -79,3 +79,12 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 ```
 <img src="./nana-1.png" width="600">
 <img src="./nana-2.png" width="600">
+
+#### 桃姆Q
+*推荐权重0.85左右*
+```
+触发词: taozi
+可能会用到的补充正反向prompt: one side up, hairclip, bangs
+```
+<img src="./taozi-1.png" width="600">
+<img src="./taozi-2.png" width="600">
