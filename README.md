@@ -65,7 +65,7 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 #### 小火驴
 *推荐权重0.75左右*
 ```
-触发词: 小火驴
+触发词: xiaohuolv
 可能会用到的补充正反向prompt: donkey ears,
 ```
 <img src="./xiaohuolv-1.png" width="600">
