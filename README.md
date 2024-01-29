@@ -80,6 +80,16 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 <img src="./nana-1.png" width="600">
 <img src="./nana-2.png" width="600">
 
+#### 鹭鹭
+*推荐权重0.87左右*
+*鹭鹭新衣lora效果不是很好,等hxd播一段时间看能不能取到好的截图素材再尝试改进*
+```
+触发词: h66
+可能会用到的补充正反向prompt: short hair with long locks, streaked hair,
+```
+<img src="./h66-1.png" width="600">
+<img src="./h66-2.png" width="600">
+
 #### 桃姆Q
 *推荐权重0.85左右*
 ```
@@ -88,3 +98,12 @@ NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师�
 ```
 <img src="./taozi-1.png" width="600">
 <img src="./taozi-2.png" width="600">
+
+#### 桃汐
+*推荐权重0.85左右*
+```
+触发词: taoxi
+可能会用到的补充正反向prompt: hair bow,
+```
+<img src="./taoxi-1.png" width="600">
+<img src="./taoxi-2.png" width="600">
