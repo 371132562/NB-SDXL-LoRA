@@ -6,6 +6,12 @@
 **因gitee仓库大小限制，LoRA文件上传至网盘
 https://www.123pan.com/s/gkwzVv-I5Xa.html**
 
+**AI表情包
+https://www.123pan.com/s/gkwzVv-TdPa.html**
+
+**AI美图
+https://www.123pan.com/s/gkwzVv-bEPa.html**
+
 NB LoRA模型，供有兴趣AI生成内容的朋友使用（ **征求买老师的意见后，这里不产出买老师相关的AI内容，朋友们有什么意见和建议及时联系我，不合适的地方及时删除** ）。
 
 训练底模使用的是[【SDXL】Anime/bulldozer_BETA](https://civitai.com/models/264323/sdxlanimebulldozerbeta?modelVersionId=298024) 所以跑图时使用此底模会得到较好的效果。
